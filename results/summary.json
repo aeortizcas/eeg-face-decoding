@@ -1,0 +1,68 @@
+{
+ "subjects": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "epochs": {
+  "2": {
+   "famous": 274,
+   "unfamiliar": 275,
+   "scrambled": 278
+  },
+  "3": {
+   "famous": 280,
+   "unfamiliar": 279,
+   "scrambled": 276
+  },
+  "4": {
+   "famous": 289,
+   "unfamiliar": 289,
+   "scrambled": 286
+  },
+  "5": {
+   "famous": 232,
+   "unfamiliar": 231,
+   "scrambled": 238
+  },
+  "6": {
+   "famous": 269,
+   "unfamiliar": 276,
+   "scrambled": 267
+  },
+  "7": {
+   "famous": 295,
+   "unfamiliar": 295,
+   "scrambled": 294
+  }
+ },
+ "roi": [
+  "EEG058",
+  "EEG059",
+  "EEG065",
+  "EEG060",
+  "EEG003",
+  "EEG070"
+ ],
+ "n170_diff_uV_mean": -2.1196470893058708,
+ "n170_diff_uV_per_subject": [
+  -1.05,
+  -2.23,
+  -3.08,
+  -2.55,
+  -1.1,
+  -2.71
+ ],
+ "n170_subjects_negative": 6,
+ "faces_vs_scrambled_peak_auc": [
+  0.7338808792100148,
+  172.0
+ ],
+ "famous_vs_unfamiliar_peak_auc": [
+  0.5319303731340299,
+  180.0
+ ]
+}
